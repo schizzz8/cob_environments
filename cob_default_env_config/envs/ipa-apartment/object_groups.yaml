@@ -8,3 +8,69 @@
 # group_name_2:
 #   - object_name_4
 #   - object_name_5
+
+food:
+- salt
+- tomato_sauce
+- zwieback
+- basmati_rice
+- corn_flakes_package
+- spaghetti
+
+drinks:
+- orange_juice_hohesc
+- green_tea
+- milk
+
+kitchen:
+- cabinet
+- cabinet_diamondback
+- couch
+- cabinet_ikea_galant
+- chair_ikea_borje
+- chair_ikea_borje2
+- table_ikea_bjursta  
+- bookcase
+
+living_room:
+- table_living_room
+- table_tv
+- tv_samsung
+- shelf_white
+- cabinet_living_room
+- table_bedside
+- couch2
+
+bedroom:
+- bed
+- cabinet_ikea_malm_small
+- chair_wicker
+- cabinet_ikea_malm_big
+- shelf_white2
+
+decoration:
+- plant_pot_purple
+- plant_pot_purple2
+- plant_floor_big
+- plant_floor_small
+- plant_pot_white
+- plant_flower_white
+- candle_thin
+- clock_living_room
+- candle_thick_holder
+- candle_thick
+- lamp_ikea_arstid
+- book_romantiker
+- book_gardening
+- book_heilkrauter
+- book_pferdewitze
+- book_journal_brown
+- book_set_buecherschau
+- book_emancipation
+- box_wicker
+- box_wood
+- medicine_panodil
+- medicine_prospan
+- picture_family
+- picture_bodegon
+- blanket_colored
