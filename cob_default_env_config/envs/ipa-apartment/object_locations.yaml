@@ -74,7 +74,7 @@ milk:
 
 cabinet:
   model: cabinet
-  model_type: urdf.xacro
+  model_type: urdf
   position: [0,1.35,0]
   orientation: [0, 0, 0]
 
@@ -86,16 +86,17 @@ cabinet_diamondback:
 
 couch:
   model: couch
-  model_type: urdf.xacro
+  model_type: urdf
   position: [3.6,0.6,0]
   orientation: [0, 0,-1.57079]
 
 cabinet_ikea_galant:
   model: cabinet_ikea_galant
   model_type: urdf
-  position: [1.30, 1.38, 0.00]
-  orientation: [0, 0, 0]
-
+#  position: [1.30, 1.38, 0.00]
+#  orientation: [0, 0, 0]
+  position: [-1.5, -0.7, 0.0]
+  orientation: [0, 0,1.57079]
 chair_ikea_borje:
   model: chair_ikea_borje
   model_type: urdf
@@ -160,7 +161,7 @@ table_bedside:
 
 couch2:
   model: couch
-  model_type: urdf.xacro
+  model_type: urdf
   position: [-4.72, 3.22, 0]
   orientation: [0, 0, -0.785398164]
 
@@ -366,8 +367,3 @@ kitekat:
   position: [-1.85, -0.3, 1]
   orientation: [0, 0, 3.141592654]
 
-cb_9x6:
-  model: cb_9x6
-  model_type: urdf
-  position: [-0.7, -0.1, 1]
-  orientation: [1.56, 0, 1.56]
